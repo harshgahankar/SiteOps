@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+bcrypt
+python-jose[cryptography]
+python-multipart
+opencv-python
+numpy
